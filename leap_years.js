@@ -13,3 +13,5 @@ console.log(leapyear(100));
 
   // kalian bisa lihat defenisi tahun kabisat di wikipedia.
   // serta algoritma untuk menentukan tahun kabisatya.
+
+  //sudah
